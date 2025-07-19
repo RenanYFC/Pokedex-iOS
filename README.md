@@ -37,3 +37,12 @@ style="width: 250px;"
 O app foi publicado no YouTube
 
 https://youtu.be/BLT4NrGzHmU
+
+## 👥 Criadores
+O projeto foi desenvolvido por
+
+👤 Julio Salvarani: https://github.com/JulioSalvarani
+
+👤 Renan Yamamoto: https://github.com/RenanYFC
+
+👤 Thomaz Scopel: https://github.com/thomazscopel
