@@ -36,7 +36,7 @@ style="width: 250px;"
 ## 📱 Visualização
 O app foi publicado no YouTube
 
-https://youtu.be/BLT4NrGzHmU
+https://www.youtube.com/watch?v=qdLUoDhSNKk
 
 ## 👥 Criadores
 O projeto foi desenvolvido por
